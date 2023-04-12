@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="92b9ce5b-31fe-4844-bce8-adff6198643b" name="Default Changelist" comment="bug fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-696e5a24.b644a746.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/chunk-696e5a24.b644a746.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-696e5a24.fcb43bee.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/chunk-696e5a24.fcb43bee.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-733d7203.5d695a5c.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/chunk-733d7203.5d695a5c.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-ec193e90.07bee648.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/chunk-ec193e90.07bee648.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-696e5a24.2533908d.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/chunk-696e5a24.2533908d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-733d7203.a0bb2147.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/chunk-733d7203.a0bb2147.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-d6729100.2662b116.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/chunk-d6729100.2662b116.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-ec193e90.37164ea9.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/chunk-ec193e90.37164ea9.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +45,7 @@
       <workItem from="1681054424370" duration="1679000" />
       <workItem from="1681146034427" duration="95000" />
       <workItem from="1681146144806" duration="408000" />
-      <workItem from="1681303354296" duration="1330000" />
+      <workItem from="1681303354296" duration="1930000" />
     </task>
     <task id="LOCAL-00001" summary="bug fix">
       <created>1680997711447</created>
